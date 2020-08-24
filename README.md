@@ -1,16 +1,22 @@
 # bkz-src
 
+
 ## Impressum
+
 Angaben gemäß § 5 TMG
 
 Gael Freire
+
 Mainzer Str.
+
 12053 Berlin
 
 #### Vertreten durch:
+
 Gael Freire
 
 #### Kontakt:
+
 E-Mail: src.gael@gmail.com
 
 ### Haftungsausschluss:
