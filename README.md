@@ -2,21 +2,16 @@
 
 
 ## Impressum
-
 Angaben gemäß § 5 TMG
 
-Gael Freire
-
-Mainzer Str.
-
-12053 Berlin
+Gael Freire </br>
+Mainzer Str. </br>
+12053 Berlin </br>
 
 #### Vertreten durch:
-
 Gael Freire
 
 #### Kontakt:
-
 E-Mail: src.gael@gmail.com
 
 ### Haftungsausschluss:
