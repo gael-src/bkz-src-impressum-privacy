@@ -5,8 +5,7 @@
 Angaben gemäß § 5 TMG
 
 Gael Freire </br>
-Mainzer Str. </br>
-12053 Berlin </br>
+Berlin </br>
 
 #### Vertreten durch:
 Gael Freire
