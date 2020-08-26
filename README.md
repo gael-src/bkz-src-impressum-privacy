@@ -1,6 +1,6 @@
 # bkz-src
 
-Webpage to Share and organise Bookmarks. Nothing is hidden, everything is public.
+Webpage to Share, organize and explore bookmarks. Nothing is hidden, everything is public.
 
 ### Webpage deploy at:
 
