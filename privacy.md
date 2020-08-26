@@ -1,3 +1,5 @@
+https://bkz-src.com/
+
 <h1>Datenschutzerklärung</h1>
 <p>Verantwortlicher im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:</p>
 <p>Gael Freire</p>
